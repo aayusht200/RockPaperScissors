@@ -1,6 +1,6 @@
 RockPaperScissors
 A simple Rock Paper Scissors game implemented in JavaScript and HTML. Play against the computer right in your browser console!
-
+Use playGame() command in console to start!
 Features
 Play Rock, Paper, Scissors against the computer
 First to reach 5 points wins the game
