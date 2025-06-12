@@ -94,11 +94,10 @@ answer.style.gap = "10px";
 answer.style.padding = "10px";
 answer.style.border = "1px solid black";
 body.appendChild(answer);
-
+answer.style.minWidth = "100px";
 const btn = document.getElementsByClassName("button");
 const btnArr = [...btn];
 console.log(btnArr[0]);
-
 
 function checkScore() {
   if (humanScore > 4) {
